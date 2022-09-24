@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/main.qml</file>
+        <file>qml/AddTaskSheet.qml</file>
+        <file>qml/Sidebar.qml</file>
+        <file>qml/MainWindow.qml</file>
+        <file>qml/AddSection.qml</file>
+        <file>qml/TaskView.qml</file>
+        <file>qml/DatePicker.qml</file>
+        <file>qml/AddProject.qml</file>
+    </qresource>
+    <qresource prefix="/icons"/>
+</RCC>
